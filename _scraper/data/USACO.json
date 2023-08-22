@@ -1,0 +1,2736 @@
+{
+  "2023feb": {
+    "Platinum": {
+      "1": {
+        "title": "Hungry Cow",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1308",
+        "whole_title": "USACO 2023 February Contest, Platinum \n Problem 1. Hungry Cow",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Problem Setting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1309",
+        "whole_title": "USACO 2023 February Contest, Platinum \n Problem 2. Problem Setting",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Watching Cowflix",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1310",
+        "whole_title": "USACO 2023 February Contest, Platinum \n Problem 3. Watching Cowflix",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Equal Sum Subarrays",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1305",
+        "whole_title": "USACO 2023 February Contest, Gold \n Problem 1. Equal Sum Subarrays",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Fertilizing Pastures",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1306",
+        "whole_title": "USACO 2023 February Contest, Gold \n Problem 2. Fertilizing Pastures",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Piling Papers",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1307",
+        "whole_title": "USACO 2023 February Contest, Gold \n Problem 3. Piling Papers",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Bakery",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1302",
+        "whole_title": "USACO 2023 February Contest, Silver \n Problem 1. Bakery",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Cow-libi",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1303",
+        "whole_title": "USACO 2023 February Contest, Silver \n Problem 2. Cow-libi",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Moo Route II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1304",
+        "whole_title": "USACO 2023 February Contest, Silver \n Problem 3. Moo Route II",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Hungry Cow",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1299",
+        "whole_title": "USACO 2023 February Contest, Bronze \n Problem 1. Hungry Cow",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Stamp Grid",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1300",
+        "whole_title": "USACO 2023 February Contest, Bronze \n Problem 2. Stamp Grid",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Watching Mooloo",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1301",
+        "whole_title": "USACO 2023 February Contest, Bronze \n Problem 3. Watching Mooloo",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2023jan": {
+    "Platinum": {
+      "1": {
+        "title": "Tractor Paths",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1284",
+        "whole_title": "USACO 2023 January Contest, Platinum \n Problem 1. Tractor Paths",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Mana Collection",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1285",
+        "whole_title": "USACO 2023 January Contest, Platinum \n Problem 2. Mana Collection",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Subtree Activation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1286",
+        "whole_title": "USACO 2023 January Contest, Platinum \n Problem 3. Subtree Activation",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Find and Replace",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1281",
+        "whole_title": "USACO 2023 January Contest, Gold \n Problem 1. Find and Replace",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Lights Off",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1282",
+        "whole_title": "USACO 2023 January Contest, Gold \n Problem 2. Lights Off",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Moo Route",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1283",
+        "whole_title": "USACO 2023 January Contest, Gold \n Problem 3. Moo Route",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Find and Replace",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1278",
+        "whole_title": "USACO 2023 January Contest, Silver \n Problem 1. Find and Replace",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Following Directions",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1279",
+        "whole_title": "USACO 2023 January Contest, Silver \n Problem 2. Following Directions",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Moo Route",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1280",
+        "whole_title": "USACO 2023 January Contest, Silver \n Problem 3. Moo Route",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Leaders",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1275",
+        "whole_title": "USACO 2023 January Contest, Bronze \n Problem 1. Leaders",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Air Cownditioning II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1276",
+        "whole_title": "USACO 2023 January Contest, Bronze \n Problem 2. Air Cownditioning II",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Moo Operations",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1277",
+        "whole_title": "USACO 2023 January Contest, Bronze \n Problem 3. Moo Operations",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2022open": {
+    "Platinum": {
+      "1": {
+        "title": "262144 Revisited",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1236",
+        "whole_title": "USACO 2022 US Open Contest, Platinum \n Problem 1. 262144 Revisited",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Hoof and Brain",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1237",
+        "whole_title": "USACO 2022 US Open Contest, Platinum \n Problem 2. Hoof and Brain",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Up Down Subsequence",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1238",
+        "whole_title": "USACO 2022 US Open Contest, Platinum \n Problem 3. Up Down Subsequence",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Apple Catching",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1233",
+        "whole_title": "USACO 2022 US Open Contest, Gold \n Problem 1. Apple Catching",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Pair Programming",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1234",
+        "whole_title": "USACO 2022 US Open Contest, Gold \n Problem 2. Pair Programming",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Balancing a Tree",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1235",
+        "whole_title": "USACO 2022 US Open Contest, Gold \n Problem 3. Balancing a Tree",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Visits",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1230",
+        "whole_title": "USACO 2022 US Open Contest, Silver \n Problem 1. Visits",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Subset Equality",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1231",
+        "whole_title": "USACO 2022 US Open Contest, Silver \n Problem 2. Subset Equality",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "COW Operations",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1232",
+        "whole_title": "USACO 2022 US Open Contest, Silver \n Problem 3. COW Operations",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Photoshoot",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1227",
+        "whole_title": "USACO 2022 US Open Contest, Bronze \n Problem 1. Photoshoot",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Counting Liars",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1228",
+        "whole_title": "USACO 2022 US Open Contest, Bronze \n Problem 2. Counting Liars",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Alchemy",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1229",
+        "whole_title": "USACO 2022 US Open Contest, Bronze \n Problem 3. Alchemy",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2022dec": {
+    "Platinum": {
+      "1": {
+        "title": "Breakdown",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1260",
+        "whole_title": "USACO 2022 December Contest, Platinum \n Problem 1. Breakdown",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Making Friends",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1261",
+        "whole_title": "USACO 2022 December Contest, Platinum \n Problem 2. Making Friends",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Palindromes",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1262",
+        "whole_title": "USACO 2022 December Contest, Platinum \n Problem 3. Palindromes",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Bribing Friends",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1257",
+        "whole_title": "USACO 2022 December Contest, Gold \n Problem 1. Bribing Friends",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Mountains",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1258",
+        "whole_title": "USACO 2022 December Contest, Gold \n Problem 2. Mountains",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Strongest Friendship Group",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1259",
+        "whole_title": "USACO 2022 December Contest, Gold \n Problem 3. Strongest Friendship Group",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Barn Tree",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1254",
+        "whole_title": "USACO 2022 December Contest, Silver \n Problem 1. Barn Tree",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Circular Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1255",
+        "whole_title": "USACO 2022 December Contest, Silver \n Problem 2. Circular Barn",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Range Reconstruction",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1256",
+        "whole_title": "USACO 2022 December Contest, Silver \n Problem 3. Range Reconstruction",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Cow College",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1251",
+        "whole_title": "USACO 2022 December Contest, Bronze \n Problem 1. Cow College",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Feeding the Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1252",
+        "whole_title": "USACO 2022 December Contest, Bronze \n Problem 2. Feeding the Cows",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Reverse Engineering",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1253",
+        "whole_title": "USACO 2022 December Contest, Bronze \n Problem 3. Reverse Engineering",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2022feb": {
+    "Platinum": {
+      "1": {
+        "title": "Paint by Rectangles",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1212",
+        "whole_title": "USACO 2022 February Contest, Platinum \n Problem 1. Paint by Rectangles",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Sleeping in Class",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1213",
+        "whole_title": "USACO 2022 February Contest, Platinum \n Problem 2. Sleeping in Class",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Phone Numbers",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1214",
+        "whole_title": "USACO 2022 February Contest, Platinum \n Problem 3. Phone Numbers",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Redistributing Gifts",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1209",
+        "whole_title": "USACO 2022 February Contest, Gold \n Problem 1. Redistributing Gifts",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Cow Camp",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1210",
+        "whole_title": "USACO 2022 February Contest, Gold \n Problem 2. Cow Camp",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Moo Network",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1211",
+        "whole_title": "USACO 2022 February Contest, Gold \n Problem 3. Moo Network",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Redistributing Gifts",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1206",
+        "whole_title": "USACO 2022 February Contest, Silver \n Problem 1. Redistributing Gifts",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Robot Instructions",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1207",
+        "whole_title": "USACO 2022 February Contest, Silver \n Problem 2. Robot Instructions",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Email Filing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1208",
+        "whole_title": "USACO 2022 February Contest, Silver \n Problem 3. Email Filing",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Sleeping in Class",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1203",
+        "whole_title": "USACO 2022 February Contest, Bronze \n Problem 1. Sleeping in Class",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Photoshoot 2",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1204",
+        "whole_title": "USACO 2022 February Contest, Bronze \n Problem 2. Photoshoot 2",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Blocks",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1205",
+        "whole_title": "USACO 2022 February Contest, Bronze \n Problem 3. Blocks",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2022jan": {
+    "Platinum": {
+      "1": {
+        "title": "Minimizing Haybales",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1188",
+        "whole_title": "USACO 2022 January Contest, Platinum \n Problem 1. Minimizing Haybales",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Counting Haybales",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1189",
+        "whole_title": "USACO 2022 January Contest, Platinum \n Problem 2. Counting Haybales",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Multiple Choice Test",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1190",
+        "whole_title": "USACO 2022 January Contest, Platinum \n Problem 3. Multiple Choice Test",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Drought",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1185",
+        "whole_title": "USACO 2022 January Contest, Gold \n Problem 1. Drought",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Farm Updates",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1186",
+        "whole_title": "USACO 2022 January Contest, Gold \n Problem 2. Farm Updates",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Tests for Haybales",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1187",
+        "whole_title": "USACO 2022 January Contest, Gold \n Problem 3. Tests for Haybales",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Searching for Soulmates",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1182",
+        "whole_title": "USACO 2022 January Contest, Silver \n Problem 1. Searching for Soulmates",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Cow Frisbee",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1183",
+        "whole_title": "USACO 2022 January Contest, Silver \n Problem 2. Cow Frisbee",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Cereal 2",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1184",
+        "whole_title": "USACO 2022 January Contest, Silver \n Problem 3. Cereal 2",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Herdle",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1179",
+        "whole_title": "USACO 2022 January Contest, Bronze \n Problem 1. Herdle",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Non-Transitive Dice",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1180",
+        "whole_title": "USACO 2022 January Contest, Bronze \n Problem 2. Non-Transitive Dice",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Drought",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1181",
+        "whole_title": "USACO 2022 January Contest, Bronze \n Problem 3. Drought",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2021open": {
+    "Platinum": {
+      "1": {
+        "title": "United Cows of Farmer John",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1140",
+        "whole_title": "USACO 2021 US Open, Platinum \n Problem 1. United Cows of Farmer John",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Routing Schemes",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1141",
+        "whole_title": "USACO 2021 US Open, Platinum \n Problem 2. Routing Schemes",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Balanced Subsets",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1142",
+        "whole_title": "USACO 2021 US Open, Platinum \n Problem 3. Balanced Subsets",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "United Cows of Farmer John",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1137",
+        "whole_title": "USACO 2021 US Open, Gold \n Problem 1. United Cows of Farmer John",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Portals",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1138",
+        "whole_title": "USACO 2021 US Open, Gold \n Problem 2. Portals",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Permutation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1139",
+        "whole_title": "USACO 2021 US Open, Gold \n Problem 3. Permutation",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Maze Tac Toe",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1134",
+        "whole_title": "USACO 2021 US Open, Silver \n Problem 1. Maze Tac Toe",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Do You Know Your ABCs?",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1135",
+        "whole_title": "USACO 2021 US Open, Silver \n Problem 2. Do You Know Your ABCs?",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Acowdemia",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1136",
+        "whole_title": "USACO 2021 US Open, Silver \n Problem 3. Acowdemia",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Acowdemia I",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1131",
+        "whole_title": "USACO 2021 US Open, Bronze \n Problem 1. Acowdemia I",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Acowdemia II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1132",
+        "whole_title": "USACO 2021 US Open, Bronze \n Problem 2. Acowdemia II",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Acowdemia III",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1133",
+        "whole_title": "USACO 2021 US Open, Bronze \n Problem 3. Acowdemia III",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2021dec": {
+    "Platinum": {
+      "1": {
+        "title": "Tickets",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1164",
+        "whole_title": "USACO 2021 December Contest, Platinum \n Problem 1. Tickets",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Paired Up",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1165",
+        "whole_title": "USACO 2021 December Contest, Platinum \n Problem 2. Paired Up",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "HILO",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1166",
+        "whole_title": "USACO 2021 December Contest, Platinum \n Problem 3. HILO",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Paired Up",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1161",
+        "whole_title": "USACO 2021 December Contest, Gold \n Problem 1. Paired Up",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "HILO",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1162",
+        "whole_title": "USACO 2021 December Contest, Gold \n Problem 2. HILO",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Bracelet Crossings",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1163",
+        "whole_title": "USACO 2021 December Contest, Gold \n Problem 3. Bracelet Crossings",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Closest Cow Wins",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1158",
+        "whole_title": "USACO 2021 December Contest, Silver \n Problem 1. Closest Cow Wins",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Connecting Two Barns",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1159",
+        "whole_title": "USACO 2021 December Contest, Silver \n Problem 2. Connecting Two Barns",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Convoluted Intervals",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1160",
+        "whole_title": "USACO 2021 December Contest, Silver \n Problem 3. Convoluted Intervals",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Lonely Photo",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1155",
+        "whole_title": "USACO 2021 December Contest, Bronze \n Problem 1. Lonely Photo",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Air Cownditioning",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1156",
+        "whole_title": "USACO 2021 December Contest, Bronze \n Problem 2. Air Cownditioning",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Walking Home",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1157",
+        "whole_title": "USACO 2021 December Contest, Bronze \n Problem 3. Walking Home",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2021feb": {
+    "Platinum": {
+      "1": {
+        "title": "No Time to Dry",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1116",
+        "whole_title": "USACO 2021 February Contest, Platinum \n Problem 1. No Time to Dry",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Minimizing Edges",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1117",
+        "whole_title": "USACO 2021 February Contest, Platinum \n Problem 2. Minimizing Edges",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Counting Graphs",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1118",
+        "whole_title": "USACO 2021 February Contest, Platinum \n Problem 3. Counting Graphs",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Stone Game",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1113",
+        "whole_title": "USACO 2021 February Contest, Gold \n Problem 1. Stone Game",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Modern Art 3",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1114",
+        "whole_title": "USACO 2021 February Contest, Gold \n Problem 2. Modern Art 3",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Count the Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1115",
+        "whole_title": "USACO 2021 February Contest, Gold \n Problem 3. Count the Cows",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Comfortable Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1110",
+        "whole_title": "USACO 2021 February Contest, Silver \n Problem 1. Comfortable Cows",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Year of the Cow",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1111",
+        "whole_title": "USACO 2021 February Contest, Silver \n Problem 2. Year of the Cow",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Just Green Enough",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1112",
+        "whole_title": "USACO 2021 February Contest, Silver \n Problem 3. Just Green Enough",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Year of the Cow",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1107",
+        "whole_title": "USACO 2021 February Contest, Bronze \n Problem 1. Year of the Cow",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Comfortable Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1108",
+        "whole_title": "USACO 2021 February Contest, Bronze \n Problem 2. Comfortable Cows",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Clockwise Fence",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1109",
+        "whole_title": "USACO 2021 February Contest, Bronze \n Problem 3. Clockwise Fence",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2021jan": {
+    "Platinum": {
+      "1": {
+        "title": "Sum of Distances",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1092",
+        "whole_title": "USACO 2021 January Contest, Platinum \n Problem 1. Sum of Distances",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Minimum Cost Paths",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1093",
+        "whole_title": "USACO 2021 January Contest, Platinum \n Problem 2. Minimum Cost Paths",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Paint by Letters",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1094",
+        "whole_title": "USACO 2021 January Contest, Platinum \n Problem 3. Paint by Letters",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Uddered but not Herd",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1089",
+        "whole_title": "USACO 2021 January Contest, Gold \n Problem 1. Uddered but not Herd",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Telephone",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1090",
+        "whole_title": "USACO 2021 January Contest, Gold \n Problem 2. Telephone",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Dance Mooves",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1091",
+        "whole_title": "USACO 2021 January Contest, Gold \n Problem 3. Dance Mooves",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Dance Mooves",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1086",
+        "whole_title": "USACO 2021 January Contest, Silver \n Problem 1. Dance Mooves",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "No Time to Paint",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1087",
+        "whole_title": "USACO 2021 January Contest, Silver \n Problem 2. No Time to Paint",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Spaced Out",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1088",
+        "whole_title": "USACO 2021 January Contest, Silver \n Problem 3. Spaced Out",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Uddered but not Herd",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1083",
+        "whole_title": "USACO 2021 January Contest, Bronze \n Problem 1. Uddered but not Herd",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Even More Odd Photos",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1084",
+        "whole_title": "USACO 2021 January Contest, Bronze \n Problem 2. Even More Odd Photos",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Just Stalling",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1085",
+        "whole_title": "USACO 2021 January Contest, Bronze \n Problem 3. Just Stalling",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2020open": {
+    "Platinum": {
+      "1": {
+        "title": "Sprinklers 2: Return of the Alfalfa",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1044",
+        "whole_title": "USACO 2020 US Open Contest, Platinum \n Problem 1. Sprinklers 2: Return of the Alfalfa",
+        "io_file": "sprinklers2"
+      },
+      "2": {
+        "title": "Exercise",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1045",
+        "whole_title": "USACO 2020 US Open Contest, Platinum \n Problem 2. Exercise",
+        "io_file": "exercise"
+      },
+      "3": {
+        "title": "Circus",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1046",
+        "whole_title": "USACO 2020 US Open Contest, Platinum \n Problem 3. Circus",
+        "io_file": "circus"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Haircut",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1041",
+        "whole_title": "USACO 2020 US Open Contest, Gold \n Problem 1. Haircut",
+        "io_file": "haircut"
+      },
+      "2": {
+        "title": "Favorite Colors",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1042",
+        "whole_title": "USACO 2020 US Open Contest, Gold \n Problem 2. Favorite Colors",
+        "io_file": "fcolor"
+      },
+      "3": {
+        "title": "Exercise",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1043",
+        "whole_title": "USACO 2020 US Open Contest, Gold \n Problem 3. Exercise",
+        "io_file": "exercise"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Social Distancing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1038",
+        "whole_title": "USACO 2020 US Open Contest, Silver \n Problem 1. Social Distancing",
+        "io_file": "socdist"
+      },
+      "2": {
+        "title": "Cereal",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1039",
+        "whole_title": "USACO 2020 US Open Contest, Silver \n Problem 2. Cereal",
+        "io_file": "cereal"
+      },
+      "3": {
+        "title": "The Moo Particle",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1040",
+        "whole_title": "USACO 2020 US Open Contest, Silver \n Problem 3. The Moo Particle",
+        "io_file": "moop"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Social Distancing I",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1035",
+        "whole_title": "USACO 2020 US Open Contest, Bronze \n Problem 1. Social Distancing I",
+        "io_file": "socdist1"
+      },
+      "2": {
+        "title": "Social Distancing II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1036",
+        "whole_title": "USACO 2020 US Open Contest, Bronze \n Problem 2. Social Distancing II",
+        "io_file": "socdist2"
+      },
+      "3": {
+        "title": "Cowntact Tracing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1037",
+        "whole_title": "USACO 2020 US Open Contest, Bronze \n Problem 3. Cowntact Tracing",
+        "io_file": "tracing"
+      }
+    }
+  },
+  "2020dec": {
+    "Platinum": {
+      "1": {
+        "title": "Sleeping Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1068",
+        "whole_title": "USACO 2020 December Contest, Platinum \n Problem 1. Sleeping Cows",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Spaceship",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1069",
+        "whole_title": "USACO 2020 December Contest, Platinum \n Problem 2. Spaceship",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Cowmistry",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1070",
+        "whole_title": "USACO 2020 December Contest, Platinum \n Problem 3. Cowmistry",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Replication",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1065",
+        "whole_title": "USACO 2020 December Contest, Gold \n Problem 1. Replication",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Bovine Genetics",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1066",
+        "whole_title": "USACO 2020 December Contest, Gold \n Problem 2. Bovine Genetics",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Square Pasture",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1067",
+        "whole_title": "USACO 2020 December Contest, Gold \n Problem 3. Square Pasture",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Cowntagion",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1062",
+        "whole_title": "USACO 2020 December Contest, Silver \n Problem 1. Cowntagion",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Rectangular Pasture",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1063",
+        "whole_title": "USACO 2020 December Contest, Silver \n Problem 2. Rectangular Pasture",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Stuck in a Rut",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1064",
+        "whole_title": "USACO 2020 December Contest, Silver \n Problem 3. Stuck in a Rut",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Do You Know Your ABCs?",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1059",
+        "whole_title": "USACO 2020 December Contest, Bronze \n Problem 1. Do You Know Your ABCs?",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Daisy Chains",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1060",
+        "whole_title": "USACO 2020 December Contest, Bronze \n Problem 2. Daisy Chains",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Stuck in a Rut",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1061",
+        "whole_title": "USACO 2020 December Contest, Bronze \n Problem 3. Stuck in a Rut",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2020feb": {
+    "Platinum": {
+      "1": {
+        "title": "Delegation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1020",
+        "whole_title": "USACO 2020 February Contest, Platinum \n Problem 1. Delegation",
+        "io_file": "deleg"
+      },
+      "2": {
+        "title": "Equilateral Triangles",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1021",
+        "whole_title": "USACO 2020 February Contest, Platinum \n Problem 2. Equilateral Triangles",
+        "io_file": "triangles"
+      },
+      "3": {
+        "title": "Help Yourself",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1022",
+        "whole_title": "USACO 2020 February Contest, Platinum \n Problem 3. Help Yourself",
+        "io_file": "help"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Timeline",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1017",
+        "whole_title": "USACO 2020 February Contest, Gold \n Problem 1. Timeline",
+        "io_file": "timeline"
+      },
+      "2": {
+        "title": "Help Yourself",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1018",
+        "whole_title": "USACO 2020 February Contest, Gold \n Problem 2. Help Yourself",
+        "io_file": "help"
+      },
+      "3": {
+        "title": "Delegation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1019",
+        "whole_title": "USACO 2020 February Contest, Gold \n Problem 3. Delegation",
+        "io_file": "deleg"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Swapity Swapity Swap",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1014",
+        "whole_title": "USACO 2020 February Contest, Silver \n Problem 1. Swapity Swapity Swap",
+        "io_file": "swap"
+      },
+      "2": {
+        "title": "Triangles",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1015",
+        "whole_title": "USACO 2020 February Contest, Silver \n Problem 2. Triangles",
+        "io_file": "triangles"
+      },
+      "3": {
+        "title": "Clock Tree",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1016",
+        "whole_title": "USACO 2020 February Contest, Silver \n Problem 3. Clock Tree",
+        "io_file": "clocktree"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Triangles",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1011",
+        "whole_title": "USACO 2020 February Contest, Bronze \n Problem 1. Triangles",
+        "io_file": "triangles"
+      },
+      "2": {
+        "title": "Mad Scientist",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1012",
+        "whole_title": "USACO 2020 February Contest, Bronze \n Problem 2. Mad Scientist",
+        "io_file": "breedflip"
+      },
+      "3": {
+        "title": "Swapity Swap",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1013",
+        "whole_title": "USACO 2020 February Contest, Bronze \n Problem 3. Swapity Swap",
+        "io_file": "swap"
+      }
+    }
+  },
+  "2020jan": {
+    "Platinum": {
+      "1": {
+        "title": "Cave Paintings",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=996",
+        "whole_title": "USACO 2020 January Contest, Platinum \n Problem 1. Cave Paintings",
+        "io_file": "cave"
+      },
+      "2": {
+        "title": "Non-Decreasing Subsequences",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=997",
+        "whole_title": "USACO 2020 January Contest, Platinum \n Problem 2. Non-Decreasing Subsequences",
+        "io_file": "nondec"
+      },
+      "3": {
+        "title": "Falling Portals",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=998",
+        "whole_title": "USACO 2020 January Contest, Platinum \n Problem 3. Falling Portals",
+        "io_file": "falling"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Time is Mooney",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=993",
+        "whole_title": "USACO 2020 January Contest, Gold \n Problem 1. Time is Mooney",
+        "io_file": "time"
+      },
+      "2": {
+        "title": "Farmer John Solves 3SUM",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=994",
+        "whole_title": "USACO 2020 January Contest, Gold \n Problem 2. Farmer John Solves 3SUM",
+        "io_file": "threesum"
+      },
+      "3": {
+        "title": "Springboards",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=995",
+        "whole_title": "USACO 2020 January Contest, Gold \n Problem 3. Springboards",
+        "io_file": "boards"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Berry Picking",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=990",
+        "whole_title": "USACO 2020 January Contest, Silver \n Problem 1. Berry Picking",
+        "io_file": "berries"
+      },
+      "2": {
+        "title": "Loan Repayment",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=991",
+        "whole_title": "USACO 2020 January Contest, Silver \n Problem 2. Loan Repayment",
+        "io_file": "loan"
+      },
+      "3": {
+        "title": "Wormhole Sort",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=992",
+        "whole_title": "USACO 2020 January Contest, Silver \n Problem 3. Wormhole Sort",
+        "io_file": "wormsort"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Word Processor",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=987",
+        "whole_title": "USACO 2020 January Contest, Bronze \n Problem 1. Word Processor",
+        "io_file": "word"
+      },
+      "2": {
+        "title": "Photoshoot",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=988",
+        "whole_title": "USACO 2020 January Contest, Bronze \n Problem 2. Photoshoot",
+        "io_file": "photo"
+      },
+      "3": {
+        "title": "Race",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=989",
+        "whole_title": "USACO 2020 January Contest, Bronze \n Problem 3. Race",
+        "io_file": "race"
+      }
+    }
+  },
+  "2019open": {
+    "Platinum": {
+      "1": {
+        "title": "Tree Boxes",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=948",
+        "whole_title": "USACO 2019 US Open Contest, Platinum \n Problem 1. Tree Boxes",
+        "io_file": "interactive"
+      },
+      "2": {
+        "title": "Compound Escape",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=949",
+        "whole_title": "USACO 2019 US Open Contest, Platinum \n Problem 2. Compound Escape",
+        "io_file": "escape"
+      },
+      "3": {
+        "title": "Valleys",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=950",
+        "whole_title": "USACO 2019 US Open Contest, Platinum \n Problem 3. Valleys",
+        "io_file": "valleys"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Snakes",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=945",
+        "whole_title": "USACO 2019 US Open Contest, Gold \n Problem 1. Snakes",
+        "io_file": "snakes"
+      },
+      "2": {
+        "title": "I Would Walk 500 Miles",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=946",
+        "whole_title": "USACO 2019 US Open Contest, Gold \n Problem 2. I Would Walk 500 Miles",
+        "io_file": "walk"
+      },
+      "3": {
+        "title": "Balancing Inversions",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=947",
+        "whole_title": "USACO 2019 US Open Contest, Gold \n Problem 3. Balancing Inversions",
+        "io_file": "balance"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Left Out",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=942",
+        "whole_title": "USACO 2019 US Open Contest, Silver \n Problem 1. Left Out",
+        "io_file": "leftout"
+      },
+      "2": {
+        "title": "Cow Steeplechase II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=943",
+        "whole_title": "USACO 2019 US Open Contest, Silver \n Problem 2. Cow Steeplechase II",
+        "io_file": "cowjump"
+      },
+      "3": {
+        "title": "Fence Planning",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=944",
+        "whole_title": "USACO 2019 US Open Contest, Silver \n Problem 3. Fence Planning",
+        "io_file": "fenceplan"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Bucket Brigade",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=939",
+        "whole_title": "USACO 2019 US Open Contest, Bronze \n Problem 1. Bucket Brigade",
+        "io_file": "buckets"
+      },
+      "2": {
+        "title": "Milk Factory",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=940",
+        "whole_title": "USACO 2019 US Open Contest, Bronze \n Problem 2. Milk Factory",
+        "io_file": "factory"
+      },
+      "3": {
+        "title": "Cow Evolution",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=941",
+        "whole_title": "USACO 2019 US Open Contest, Bronze \n Problem 3. Cow Evolution",
+        "io_file": "evolution"
+      }
+    }
+  },
+  "2019dec": {
+    "Platinum": {
+      "1": {
+        "title": "Greedy Pie Eaters",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=972",
+        "whole_title": "USACO 2019 December Contest, Platinum \n Problem 1. Greedy Pie Eaters",
+        "io_file": "pieaters"
+      },
+      "2": {
+        "title": "Bessie's Snow Cow",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=973",
+        "whole_title": "USACO 2019 December Contest, Platinum \n Problem 2. Bessie's Snow Cow",
+        "io_file": "snowcow"
+      },
+      "3": {
+        "title": "Tree Depth",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=974",
+        "whole_title": "USACO 2019 December Contest, Platinum \n Problem 3. Tree Depth",
+        "io_file": "treedepth"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Milk Pumping",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=969",
+        "whole_title": "USACO 2019 December Contest, Gold \n Problem 1. Milk Pumping",
+        "io_file": "pump"
+      },
+      "2": {
+        "title": "Milk Visits",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=970",
+        "whole_title": "USACO 2019 December Contest, Gold \n Problem 2. Milk Visits",
+        "io_file": "milkvisits"
+      },
+      "3": {
+        "title": "Moortal Cowmbat",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=971",
+        "whole_title": "USACO 2019 December Contest, Gold \n Problem 3. Moortal Cowmbat",
+        "io_file": "cowmbat"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "MooBuzz",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=966",
+        "whole_title": "USACO 2019 December Contest, Silver \n Problem 1. MooBuzz",
+        "io_file": "moobuzz"
+      },
+      "2": {
+        "title": "Meetings",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=967",
+        "whole_title": "USACO 2019 December Contest, Silver \n Problem 2. Meetings",
+        "io_file": "meetings"
+      },
+      "3": {
+        "title": "Milk Visits",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=968",
+        "whole_title": "USACO 2019 December Contest, Silver \n Problem 3. Milk Visits",
+        "io_file": "milkvisits"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Cow Gymnastics",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=963",
+        "whole_title": "USACO 2019 December Contest, Bronze \n Problem 1. Cow Gymnastics",
+        "io_file": "gymnastics"
+      },
+      "2": {
+        "title": "Where Am I?",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=964",
+        "whole_title": "USACO 2019 December Contest, Bronze \n Problem 2. Where Am I?",
+        "io_file": "whereami"
+      },
+      "3": {
+        "title": "Livestock Lineup",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=965",
+        "whole_title": "USACO 2019 December Contest, Bronze \n Problem 3. Livestock Lineup",
+        "io_file": "lineup"
+      }
+    }
+  },
+  "2019feb": {
+    "Platinum": {
+      "1": {
+        "title": "Cow Dating",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=924",
+        "whole_title": "USACO 2019 February Contest, Platinum \n Problem 1. Cow Dating",
+        "io_file": "cowdate"
+      },
+      "2": {
+        "title": "Moorio Kart",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=925",
+        "whole_title": "USACO 2019 February Contest, Platinum \n Problem 2. Moorio Kart",
+        "io_file": "mooriokart"
+      },
+      "3": {
+        "title": "Mowing Mischief",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=926",
+        "whole_title": "USACO 2019 February Contest, Platinum \n Problem 3. Mowing Mischief",
+        "io_file": "mowing"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Cow Land",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=921",
+        "whole_title": "USACO 2019 February Contest, Gold \n Problem 1. Cow Land",
+        "io_file": "cowland"
+      },
+      "2": {
+        "title": "Dishwashing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=922",
+        "whole_title": "USACO 2019 February Contest, Gold \n Problem 2. Dishwashing",
+        "io_file": "dishes"
+      },
+      "3": {
+        "title": "Painting the Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=923",
+        "whole_title": "USACO 2019 February Contest, Gold \n Problem 3. Painting the Barn",
+        "io_file": "paintbarn"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Sleepy Cow Herding",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=918",
+        "whole_title": "USACO 2019 February Contest, Silver \n Problem 1. Sleepy Cow Herding",
+        "io_file": "herding"
+      },
+      "2": {
+        "title": "Painting the Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=919",
+        "whole_title": "USACO 2019 February Contest, Silver \n Problem 2. Painting the Barn",
+        "io_file": "paintbarn"
+      },
+      "3": {
+        "title": "The Great Revegetation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=920",
+        "whole_title": "USACO 2019 February Contest, Silver \n Problem 3. The Great Revegetation",
+        "io_file": "revegetate"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Sleepy Cow Herding",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=915",
+        "whole_title": "USACO 2019 February Contest, Bronze \n Problem 1. Sleepy Cow Herding",
+        "io_file": "herding"
+      },
+      "2": {
+        "title": "The Great Revegetation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=916",
+        "whole_title": "USACO 2019 February Contest, Bronze \n Problem 2. The Great Revegetation",
+        "io_file": "revegetate"
+      },
+      "3": {
+        "title": "Measuring Traffic",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=917",
+        "whole_title": "USACO 2019 February Contest, Bronze \n Problem 3. Measuring Traffic",
+        "io_file": "traffic"
+      }
+    }
+  },
+  "2019jan": {
+    "Platinum": {
+      "1": {
+        "title": "Redistricting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=900",
+        "whole_title": "USACO 2019 January Contest, Platinum \n Problem 1. Redistricting",
+        "io_file": "redistricting"
+      },
+      "2": {
+        "title": "Exercise Route",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=901",
+        "whole_title": "USACO 2019 January Contest, Platinum \n Problem 2. Exercise Route",
+        "io_file": "exercise"
+      },
+      "3": {
+        "title": "Train Tracking 2",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=902",
+        "whole_title": "USACO 2019 January Contest, Platinum \n Problem 3. Train Tracking 2",
+        "io_file": "tracking2"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Cow Poetry",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=897",
+        "whole_title": "USACO 2019 January Contest, Gold \n Problem 1. Cow Poetry",
+        "io_file": "poetry"
+      },
+      "2": {
+        "title": "Sleepy Cow Sorting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=898",
+        "whole_title": "USACO 2019 January Contest, Gold \n Problem 2. Sleepy Cow Sorting",
+        "io_file": "sleepy"
+      },
+      "3": {
+        "title": "Shortcut",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=899",
+        "whole_title": "USACO 2019 January Contest, Gold \n Problem 3. Shortcut",
+        "io_file": "shortcut"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Grass Planting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=894",
+        "whole_title": "USACO 2019 January Contest, Silver \n Problem 1. Grass Planting",
+        "io_file": "planting"
+      },
+      "2": {
+        "title": "Icy Perimeter",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=895",
+        "whole_title": "USACO 2019 January Contest, Silver \n Problem 2. Icy Perimeter",
+        "io_file": "perimeter"
+      },
+      "3": {
+        "title": "Mountain View",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=896",
+        "whole_title": "USACO 2019 January Contest, Silver \n Problem 3. Mountain View",
+        "io_file": "mountains"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Shell Game",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=891",
+        "whole_title": "USACO 2019 January Contest, Bronze \n Problem 1. Shell Game",
+        "io_file": "shell"
+      },
+      "2": {
+        "title": "Sleepy Cow Sorting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=892",
+        "whole_title": "USACO 2019 January Contest, Bronze \n Problem 2. Sleepy Cow Sorting",
+        "io_file": "sleepy"
+      },
+      "3": {
+        "title": "Guess the Animal",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=893",
+        "whole_title": "USACO 2019 January Contest, Bronze \n Problem 3. Guess the Animal",
+        "io_file": "guess"
+      }
+    }
+  },
+  "2018open": {
+    "Platinum": {
+      "1": {
+        "title": "Out of Sorts",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=840",
+        "whole_title": "USACO 2018 US Open Contest, Platinum \n Problem 1. Out of Sorts",
+        "io_file": "sort"
+      },
+      "2": {
+        "title": "Train Tracking",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=841",
+        "whole_title": "USACO 2018 US Open Contest, Platinum \n Problem 2. Train Tracking",
+        "io_file": "interactive"
+      },
+      "3": {
+        "title": "Disruption",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=842",
+        "whole_title": "USACO 2018 US Open Contest, Platinum \n Problem 3. Disruption",
+        "io_file": "disrupt"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Out of Sorts",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=837",
+        "whole_title": "USACO 2018 US Open Contest, Gold \n Problem 1. Out of Sorts",
+        "io_file": "sort"
+      },
+      "2": {
+        "title": "Milking Order",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=838",
+        "whole_title": "USACO 2018 US Open Contest, Gold \n Problem 2. Milking Order",
+        "io_file": "milkorder"
+      },
+      "3": {
+        "title": "Talent Show",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=839",
+        "whole_title": "USACO 2018 US Open Contest, Gold \n Problem 3. Talent Show",
+        "io_file": "talent"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Out of Sorts",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=834",
+        "whole_title": "USACO 2018 US Open Contest, Silver \n Problem 1. Out of Sorts",
+        "io_file": "sort"
+      },
+      "2": {
+        "title": "Lemonade Line",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=835",
+        "whole_title": "USACO 2018 US Open Contest, Silver \n Problem 2. Lemonade Line",
+        "io_file": "lemonade"
+      },
+      "3": {
+        "title": "Multiplayer Moo",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=836",
+        "whole_title": "USACO 2018 US Open Contest, Silver \n Problem 3. Multiplayer Moo",
+        "io_file": "multimoo"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Team Tic Tac Toe",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=831",
+        "whole_title": "USACO 2018 US Open Contest, Bronze \n Problem 1. Team Tic Tac Toe",
+        "io_file": "tttt"
+      },
+      "2": {
+        "title": "Milking Order",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=832",
+        "whole_title": "USACO 2018 US Open Contest, Bronze \n Problem 2. Milking Order",
+        "io_file": "milkorder"
+      },
+      "3": {
+        "title": "Family Tree",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=833",
+        "whole_title": "USACO 2018 US Open Contest, Bronze \n Problem 3. Family Tree",
+        "io_file": "family"
+      }
+    }
+  },
+  "2018dec": {
+    "Platinum": {
+      "1": {
+        "title": "Balance Beam",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=864",
+        "whole_title": "USACO 2018 December Contest, Platinum \n Problem 1. Balance Beam",
+        "io_file": "balance"
+      },
+      "2": {
+        "title": "Sort It Out",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=865",
+        "whole_title": "USACO 2018 December Contest, Platinum \n Problem 2. Sort It Out",
+        "io_file": "itout"
+      },
+      "3": {
+        "title": "The Cow Gathering",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=866",
+        "whole_title": "USACO 2018 December Contest, Platinum \n Problem 3. The Cow Gathering",
+        "io_file": "gathering"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Fine Dining",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=861",
+        "whole_title": "USACO 2018 December Contest, Gold \n Problem 1. Fine Dining",
+        "io_file": "dining"
+      },
+      "2": {
+        "title": "Cowpatibility",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=862",
+        "whole_title": "USACO 2018 December Contest, Gold \n Problem 2. Cowpatibility",
+        "io_file": "cowpatibility"
+      },
+      "3": {
+        "title": "Teamwork",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=863",
+        "whole_title": "USACO 2018 December Contest, Gold \n Problem 3. Teamwork",
+        "io_file": "teamwork"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Convention",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=858",
+        "whole_title": "USACO 2018 December Contest, Silver \n Problem 1. Convention",
+        "io_file": "convention"
+      },
+      "2": {
+        "title": "Convention II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=859",
+        "whole_title": "USACO 2018 December Contest, Silver \n Problem 2. Convention II",
+        "io_file": "convention2"
+      },
+      "3": {
+        "title": "Mooyo Mooyo",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=860",
+        "whole_title": "USACO 2018 December Contest, Silver \n Problem 3. Mooyo Mooyo",
+        "io_file": "mooyomooyo"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Mixing Milk",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=855",
+        "whole_title": "USACO 2018 December Contest, Bronze \n Problem 1. Mixing Milk",
+        "io_file": "mixmilk"
+      },
+      "2": {
+        "title": "The Bucket List",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=856",
+        "whole_title": "USACO 2018 December Contest, Bronze \n Problem 2. The Bucket List",
+        "io_file": "blist"
+      },
+      "3": {
+        "title": "Back and Forth",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=857",
+        "whole_title": "USACO 2018 December Contest, Bronze \n Problem 3. Back and Forth",
+        "io_file": "backforth"
+      }
+    }
+  },
+  "2018feb": {
+    "Platinum": {
+      "1": {
+        "title": "Slingshot",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=816",
+        "whole_title": "USACO 2018 February Contest, Platinum \n Problem 1. Slingshot",
+        "io_file": "slingshot"
+      },
+      "2": {
+        "title": "New Barns",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=817",
+        "whole_title": "USACO 2018 February Contest, Platinum \n Problem 2. New Barns",
+        "io_file": "newbarn"
+      },
+      "3": {
+        "title": "Cow Gymnasts",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=818",
+        "whole_title": "USACO 2018 February Contest, Platinum \n Problem 3. Cow Gymnasts",
+        "io_file": "gymnasts"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Snow Boots",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=813",
+        "whole_title": "USACO 2018 February Contest, Gold \n Problem 1. Snow Boots",
+        "io_file": "snowboots"
+      },
+      "2": {
+        "title": "Directory Traversal",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=814",
+        "whole_title": "USACO 2018 February Contest, Gold \n Problem 2. Directory Traversal",
+        "io_file": "dirtraverse"
+      },
+      "3": {
+        "title": "Taming the Herd",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=815",
+        "whole_title": "USACO 2018 February Contest, Gold \n Problem 3. Taming the Herd",
+        "io_file": "taming"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Rest Stops",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=810",
+        "whole_title": "USACO 2018 February Contest, Silver \n Problem 1. Rest Stops",
+        "io_file": "reststops"
+      },
+      "2": {
+        "title": "Snow Boots",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=811",
+        "whole_title": "USACO 2018 February Contest, Silver \n Problem 2. Snow Boots",
+        "io_file": "snowboots"
+      },
+      "3": {
+        "title": "Teleportation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=812",
+        "whole_title": "USACO 2018 February Contest, Silver \n Problem 3. Teleportation",
+        "io_file": "teleport"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Teleportation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=807",
+        "whole_title": "USACO 2018 February Contest, Bronze \n Problem 1. Teleportation",
+        "io_file": "teleport"
+      },
+      "2": {
+        "title": "Hoofball",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=808",
+        "whole_title": "USACO 2018 February Contest, Bronze \n Problem 2. Hoofball",
+        "io_file": "hoofball"
+      },
+      "3": {
+        "title": "Taming the Herd",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=809",
+        "whole_title": "USACO 2018 February Contest, Bronze \n Problem 3. Taming the Herd",
+        "io_file": "taming"
+      }
+    }
+  },
+  "2018jan": {
+    "Platinum": {
+      "1": {
+        "title": "Lifeguards",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=792",
+        "whole_title": "USACO 2018 January Contest, Platinum \n Problem 1. Lifeguards",
+        "io_file": "lifeguards"
+      },
+      "2": {
+        "title": "Cow at Large",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=793",
+        "whole_title": "USACO 2018 January Contest, Platinum \n Problem 2. Cow at Large",
+        "io_file": "atlarge"
+      },
+      "3": {
+        "title": "Sprinklers",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=794",
+        "whole_title": "USACO 2018 January Contest, Platinum \n Problem 3. Sprinklers",
+        "io_file": "sprinklers"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "MooTube",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=789",
+        "whole_title": "USACO 2018 January Contest, Gold \n Problem 1. MooTube",
+        "io_file": "mootube"
+      },
+      "2": {
+        "title": "Cow at Large",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=790",
+        "whole_title": "USACO 2018 January Contest, Gold \n Problem 2. Cow at Large",
+        "io_file": "atlarge"
+      },
+      "3": {
+        "title": "Stamp Painting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=791",
+        "whole_title": "USACO 2018 January Contest, Gold \n Problem 3. Stamp Painting",
+        "io_file": "spainting"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Lifeguards",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=786",
+        "whole_title": "USACO 2018 January Contest, Silver \n Problem 1. Lifeguards",
+        "io_file": "lifeguards"
+      },
+      "2": {
+        "title": "Rental Service",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=787",
+        "whole_title": "USACO 2018 January Contest, Silver \n Problem 2. Rental Service",
+        "io_file": "rental"
+      },
+      "3": {
+        "title": "MooTube",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=788",
+        "whole_title": "USACO 2018 January Contest, Silver \n Problem 3. MooTube",
+        "io_file": "mootube"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Blocked Billboard II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=783",
+        "whole_title": "USACO 2018 January Contest, Bronze \n Problem 1. Blocked Billboard II",
+        "io_file": "billboard"
+      },
+      "2": {
+        "title": "Lifeguards",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=784",
+        "whole_title": "USACO 2018 January Contest, Bronze \n Problem 2. Lifeguards",
+        "io_file": "lifeguards"
+      },
+      "3": {
+        "title": "Out of Place",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=785",
+        "whole_title": "USACO 2018 January Contest, Bronze \n Problem 3. Out of Place",
+        "io_file": "outofplace"
+      }
+    }
+  },
+  "2017open": {
+    "Platinum": {
+      "1": {
+        "title": "Modern Art",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=744",
+        "whole_title": "USACO 2017 US Open Contest, Platinum \n Problem 1. Modern Art",
+        "io_file": "art"
+      },
+      "2": {
+        "title": "Switch Grass",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=745",
+        "whole_title": "USACO 2017 US Open Contest, Platinum \n Problem 2. Switch Grass",
+        "io_file": "grass"
+      },
+      "3": {
+        "title": "COWBASIC",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=746",
+        "whole_title": "USACO 2017 US Open Contest, Platinum \n Problem 3. COWBASIC",
+        "io_file": "cowbasic"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Bovine Genomics",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=741",
+        "whole_title": "USACO 2017 US Open Contest, Gold \n Problem 1. Bovine Genomics",
+        "io_file": "cownomics"
+      },
+      "3": {
+        "title": "Modern Art 2",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=743",
+        "whole_title": "USACO 2017 US Open Contest, Gold \n Problem 3. Modern Art 2",
+        "io_file": "art2"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Paired Up",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=738",
+        "whole_title": "USACO 2017 US Open Contest, Silver \n Problem 1. Paired Up",
+        "io_file": "pairup"
+      },
+      "2": {
+        "title": "Bovine Genomics",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=739",
+        "whole_title": "USACO 2017 US Open Contest, Silver \n Problem 2. Bovine Genomics",
+        "io_file": "cownomics"
+      },
+      "3": {
+        "title": "Where's Bessie?",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=740",
+        "whole_title": "USACO 2017 US Open Contest, Silver \n Problem 3. Where's Bessie?",
+        "io_file": "where"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "The Lost Cow",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=735",
+        "whole_title": "USACO 2017 US Open Contest, Bronze \n Problem 1. The Lost Cow",
+        "io_file": "lostcow"
+      },
+      "2": {
+        "title": "Bovine Genomics",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=736",
+        "whole_title": "USACO 2017 US Open Contest, Bronze \n Problem 2. Bovine Genomics",
+        "io_file": "cownomics"
+      },
+      "3": {
+        "title": "Modern Art",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=737",
+        "whole_title": "USACO 2017 US Open Contest, Bronze \n Problem 3. Modern Art",
+        "io_file": "art"
+      }
+    }
+  },
+  "2017dec": {
+    "Platinum": {
+      "1": {
+        "title": "Standing Out from the Herd",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=768",
+        "whole_title": "USACO 2017 December Contest, Platinum \n Problem 1. Standing Out from the Herd",
+        "io_file": "standingout"
+      },
+      "2": {
+        "title": "Push a Box",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=769",
+        "whole_title": "USACO 2017 December Contest, Platinum \n Problem 2. Push a Box",
+        "io_file": "pushabox"
+      },
+      "3": {
+        "title": "Greedy Gift Takers",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=770",
+        "whole_title": "USACO 2017 December Contest, Platinum \n Problem 3. Greedy Gift Takers",
+        "io_file": "greedy"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "A Pie for a Pie",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=765",
+        "whole_title": "USACO 2017 December Contest, Gold \n Problem 1. A Pie for a Pie",
+        "io_file": "piepie"
+      },
+      "2": {
+        "title": "Barn Painting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=766",
+        "whole_title": "USACO 2017 December Contest, Gold \n Problem 2. Barn Painting",
+        "io_file": "barnpainting"
+      },
+      "3": {
+        "title": "Haybale Feast",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=767",
+        "whole_title": "USACO 2017 December Contest, Gold \n Problem 3. Haybale Feast",
+        "io_file": "hayfeast"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "My Cow Ate My Homework",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=762",
+        "whole_title": "USACO 2017 December Contest, Silver \n Problem 1. My Cow Ate My Homework",
+        "io_file": "homework"
+      },
+      "2": {
+        "title": "Milk Measurement",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=763",
+        "whole_title": "USACO 2017 December Contest, Silver \n Problem 2. Milk Measurement",
+        "io_file": "measurement"
+      },
+      "3": {
+        "title": "The Bovine Shuffle",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=764",
+        "whole_title": "USACO 2017 December Contest, Silver \n Problem 3. The Bovine Shuffle",
+        "io_file": "shuffle"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Blocked Billboard",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=759",
+        "whole_title": "USACO 2017 December Contest, Bronze \n Problem 1. Blocked Billboard",
+        "io_file": "billboard"
+      },
+      "2": {
+        "title": "The Bovine Shuffle",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=760",
+        "whole_title": "USACO 2017 December Contest, Bronze \n Problem 2. The Bovine Shuffle",
+        "io_file": "shuffle"
+      },
+      "3": {
+        "title": "Milk Measurement",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=761",
+        "whole_title": "USACO 2017 December Contest, Bronze \n Problem 3. Milk Measurement",
+        "io_file": "measurement"
+      }
+    }
+  },
+  "2017feb": {
+    "Platinum": {
+      "1": {
+        "title": "Why Did the Cow Cross the Road",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=720",
+        "whole_title": "USACO 2017 February Contest, Platinum \n Problem 1. Why Did the Cow Cross the Road",
+        "io_file": "mincross"
+      },
+      "2": {
+        "title": "Why Did the Cow Cross the Road II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=721",
+        "whole_title": "USACO 2017 February Contest, Platinum \n Problem 2. Why Did the Cow Cross the Road II",
+        "io_file": "nocross"
+      },
+      "3": {
+        "title": "Why Did the Cow Cross the Road III",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=722",
+        "whole_title": "USACO 2017 February Contest, Platinum \n Problem 3. Why Did the Cow Cross the Road III",
+        "io_file": "friendcross"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Why Did the Cow Cross the Road",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=717",
+        "whole_title": "USACO 2017 February Contest, Gold \n Problem 1. Why Did the Cow Cross the Road",
+        "io_file": "visitfj"
+      },
+      "2": {
+        "title": "Why Did the Cow Cross the Road II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=718",
+        "whole_title": "USACO 2017 February Contest, Gold \n Problem 2. Why Did the Cow Cross the Road II",
+        "io_file": "nocross"
+      },
+      "3": {
+        "title": "Why Did the Cow Cross the Road III",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=719",
+        "whole_title": "USACO 2017 February Contest, Gold \n Problem 3. Why Did the Cow Cross the Road III",
+        "io_file": "circlecross"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Why Did the Cow Cross the Road",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=714",
+        "whole_title": "USACO 2017 February Contest, Silver \n Problem 1. Why Did the Cow Cross the Road",
+        "io_file": "helpcross"
+      },
+      "2": {
+        "title": "Why Did the Cow Cross the Road II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=715",
+        "whole_title": "USACO 2017 February Contest, Silver \n Problem 2. Why Did the Cow Cross the Road II",
+        "io_file": "maxcross"
+      },
+      "3": {
+        "title": "Why Did the Cow Cross the Road III",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=716",
+        "whole_title": "USACO 2017 February Contest, Silver \n Problem 3. Why Did the Cow Cross the Road III",
+        "io_file": "countcross"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Why Did the Cow Cross the Road",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=711",
+        "whole_title": "USACO 2017 February Contest, Bronze \n Problem 1. Why Did the Cow Cross the Road",
+        "io_file": "crossroad"
+      },
+      "2": {
+        "title": "Why Did the Cow Cross the Road II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=712",
+        "whole_title": "USACO 2017 February Contest, Bronze \n Problem 2. Why Did the Cow Cross the Road II",
+        "io_file": "circlecross"
+      },
+      "3": {
+        "title": "Why Did the Cow Cross the Road III",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=713",
+        "whole_title": "USACO 2017 February Contest, Bronze \n Problem 3. Why Did the Cow Cross the Road III",
+        "io_file": "cowqueue"
+      }
+    }
+  },
+  "2017jan": {
+    "Platinum": {
+      "1": {
+        "title": "Promotion Counting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=696",
+        "whole_title": "USACO 2017 January Contest, Platinum \n Problem 1. Promotion Counting",
+        "io_file": "promote"
+      },
+      "2": {
+        "title": "Building a Tall Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=697",
+        "whole_title": "USACO 2017 January Contest, Platinum \n Problem 2. Building a Tall Barn",
+        "io_file": "tallbarn"
+      },
+      "3": {
+        "title": "Subsequence Reversal",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=698",
+        "whole_title": "USACO 2017 January Contest, Platinum \n Problem 3. Subsequence Reversal",
+        "io_file": "subrev"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Balanced Photo",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=693",
+        "whole_title": "USACO 2017 January Contest, Gold \n Problem 1. Balanced Photo",
+        "io_file": "bphoto"
+      },
+      "2": {
+        "title": "Hoof, Paper, Scissors",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=694",
+        "whole_title": "USACO 2017 January Contest, Gold \n Problem 2. Hoof, Paper, Scissors",
+        "io_file": "hps"
+      },
+      "3": {
+        "title": "Cow Navigation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=695",
+        "whole_title": "USACO 2017 January Contest, Gold \n Problem 3. Cow Navigation",
+        "io_file": "cownav"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Cow Dance Show",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=690",
+        "whole_title": "USACO 2017 January Contest, Silver \n Problem 1. Cow Dance Show",
+        "io_file": "cowdance"
+      },
+      "2": {
+        "title": "Hoof, Paper, Scissors",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=691",
+        "whole_title": "USACO 2017 January Contest, Silver \n Problem 2. Hoof, Paper, Scissors",
+        "io_file": "hps"
+      },
+      "3": {
+        "title": "Secret Cow Code",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=692",
+        "whole_title": "USACO 2017 January Contest, Silver \n Problem 3. Secret Cow Code",
+        "io_file": "cowcode"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Don't Be Last!",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=687",
+        "whole_title": "USACO 2017 January Contest, Bronze \n Problem 1. Don't Be Last!",
+        "io_file": "notlast"
+      },
+      "2": {
+        "title": "Hoof, Paper, Scissors",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=688",
+        "whole_title": "USACO 2017 January Contest, Bronze \n Problem 2. Hoof, Paper, Scissors",
+        "io_file": "hps"
+      },
+      "3": {
+        "title": "Cow Tipping",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=689",
+        "whole_title": "USACO 2017 January Contest, Bronze \n Problem 3. Cow Tipping",
+        "io_file": "cowtip"
+      }
+    }
+  },
+  "2016open": {
+    "Platinum": {
+      "1": {
+        "title": "262144",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=648",
+        "whole_title": "USACO 2016 US Open Contest, Platinum \n Problem 1. 262144",
+        "io_file": "262144"
+      },
+      "2": {
+        "title": "Bull in a China Shop",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=649",
+        "whole_title": "USACO 2016 US Open Contest, Platinum \n Problem 2. Bull in a China Shop",
+        "io_file": "bcs"
+      },
+      "3": {
+        "title": "Landscaping",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=650",
+        "whole_title": "USACO 2016 US Open Contest, Platinum \n Problem 3. Landscaping",
+        "io_file": "landscape"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Splitting the Field",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=645",
+        "whole_title": "USACO 2016 US Open Contest, Gold \n Problem 1. Splitting the Field",
+        "io_file": "split"
+      },
+      "2": {
+        "title": "Closing the Farm",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=646",
+        "whole_title": "USACO 2016 US Open Contest, Gold \n Problem 2. Closing the Farm",
+        "io_file": "closing"
+      },
+      "3": {
+        "title": "248",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=647",
+        "whole_title": "USACO 2016 US Open Contest, Gold \n Problem 3. 248",
+        "io_file": "248"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Field Reduction",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=642",
+        "whole_title": "USACO 2016 US Open Contest, Silver \n Problem 1. Field Reduction",
+        "io_file": "reduce"
+      },
+      "2": {
+        "title": "Diamond Collector",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=643",
+        "whole_title": "USACO 2016 US Open Contest, Silver \n Problem 2. Diamond Collector",
+        "io_file": "diamond"
+      },
+      "3": {
+        "title": "Closing the Farm",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=644",
+        "whole_title": "USACO 2016 US Open Contest, Silver \n Problem 3. Closing the Farm",
+        "io_file": "closing"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Diamond Collector",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=639",
+        "whole_title": "USACO 2016 US Open Contest, Bronze \n Problem 1. Diamond Collector",
+        "io_file": "diamond"
+      },
+      "2": {
+        "title": "Bull in a China Shop",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=640",
+        "whole_title": "USACO 2016 US Open Contest, Bronze \n Problem 2. Bull in a China Shop",
+        "io_file": "bcs"
+      },
+      "3": {
+        "title": "Field Reduction",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=641",
+        "whole_title": "USACO 2016 US Open Contest, Bronze \n Problem 3. Field Reduction",
+        "io_file": "reduce"
+      }
+    }
+  },
+  "2016dec": {
+    "Platinum": {
+      "1": {
+        "title": "Lots of Triangles",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=672",
+        "whole_title": "USACO 2016 December Contest, Platinum \n Problem 1. Lots of Triangles",
+        "io_file": "triangles"
+      },
+      "2": {
+        "title": "Team Building",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=673",
+        "whole_title": "USACO 2016 December Contest, Platinum \n Problem 2. Team Building",
+        "io_file": "team"
+      },
+      "3": {
+        "title": "Robotic Cow Herd",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=674",
+        "whole_title": "USACO 2016 December Contest, Platinum \n Problem 3. Robotic Cow Herd",
+        "io_file": "roboherd"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Moocast",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=669",
+        "whole_title": "USACO 2016 December Contest, Gold \n Problem 1. Moocast",
+        "io_file": "moocast"
+      },
+      "2": {
+        "title": "Cow Checklist",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=670",
+        "whole_title": "USACO 2016 December Contest, Gold \n Problem 2. Cow Checklist",
+        "io_file": "checklist"
+      },
+      "3": {
+        "title": "Lasers and Mirrors",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=671",
+        "whole_title": "USACO 2016 December Contest, Gold \n Problem 3. Lasers and Mirrors",
+        "io_file": "lasers"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Counting Haybales",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=666",
+        "whole_title": "USACO 2016 December Contest, Silver \n Problem 1. Counting Haybales",
+        "io_file": "haybales"
+      },
+      "2": {
+        "title": "Cities and States",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=667",
+        "whole_title": "USACO 2016 December Contest, Silver \n Problem 2. Cities and States",
+        "io_file": "citystate"
+      },
+      "3": {
+        "title": "Moocast",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=668",
+        "whole_title": "USACO 2016 December Contest, Silver \n Problem 3. Moocast",
+        "io_file": "moocast"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Square Pasture",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=663",
+        "whole_title": "USACO 2016 December Contest, Bronze \n Problem 1. Square Pasture",
+        "io_file": "square"
+      },
+      "2": {
+        "title": "Block Game",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=664",
+        "whole_title": "USACO 2016 December Contest, Bronze \n Problem 2. Block Game",
+        "io_file": "blocks"
+      },
+      "3": {
+        "title": "The Cow-Signal",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=665",
+        "whole_title": "USACO 2016 December Contest, Bronze \n Problem 3. The Cow-Signal",
+        "io_file": "cowsignal"
+      }
+    }
+  },
+  "2016feb": {
+    "Platinum": {
+      "1": {
+        "title": "Load Balancing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=624",
+        "whole_title": "USACO 2016 February Contest, Platinum \n Problem 1. Load Balancing",
+        "io_file": "balancing"
+      },
+      "2": {
+        "title": "Fenced In",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=625",
+        "whole_title": "USACO 2016 February Contest, Platinum \n Problem 2. Fenced In",
+        "io_file": "fencedin"
+      },
+      "3": {
+        "title": "Circular Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=626",
+        "whole_title": "USACO 2016 February Contest, Platinum \n Problem 3. Circular Barn",
+        "io_file": "cbarn"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Circular Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=621",
+        "whole_title": "USACO 2016 February Contest, Gold \n Problem 1. Circular Barn",
+        "io_file": "cbarn"
+      },
+      "2": {
+        "title": "Circular Barn Revisited",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=622",
+        "whole_title": "USACO 2016 February Contest, Gold \n Problem 2. Circular Barn Revisited",
+        "io_file": "cbarn2"
+      },
+      "3": {
+        "title": "Fenced In",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=623",
+        "whole_title": "USACO 2016 February Contest, Gold \n Problem 3. Fenced In",
+        "io_file": "fencedin"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Circular Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=618",
+        "whole_title": "USACO 2016 February Contest, Silver \n Problem 1. Circular Barn",
+        "io_file": "cbarn"
+      },
+      "2": {
+        "title": "Load Balancing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=619",
+        "whole_title": "USACO 2016 February Contest, Silver \n Problem 2. Load Balancing",
+        "io_file": "balancing"
+      },
+      "3": {
+        "title": "Milk Pails",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=620",
+        "whole_title": "USACO 2016 February Contest, Silver \n Problem 3. Milk Pails",
+        "io_file": "pails"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Milk Pails",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=615",
+        "whole_title": "USACO 2016 February Contest, Bronze \n Problem 1. Milk Pails",
+        "io_file": "pails"
+      },
+      "2": {
+        "title": "Circular Barn",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=616",
+        "whole_title": "USACO 2016 February Contest, Bronze \n Problem 2. Circular Barn",
+        "io_file": "cbarn"
+      },
+      "3": {
+        "title": "Load Balancing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=617",
+        "whole_title": "USACO 2016 February Contest, Bronze \n Problem 3. Load Balancing",
+        "io_file": "balancing"
+      }
+    }
+  },
+  "2016jan": {
+    "Platinum": {
+      "1": {
+        "title": "Fort Moo",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=600",
+        "whole_title": "USACO 2016 January Contest, Platinum \n Problem 1. Fort Moo",
+        "io_file": "fortmoo"
+      },
+      "2": {
+        "title": "Mowing the Field",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=601",
+        "whole_title": "USACO 2016 January Contest, Platinum \n Problem 2. Mowing the Field",
+        "io_file": "mowing"
+      },
+      "3": {
+        "title": "Lights Out",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=602",
+        "whole_title": "USACO 2016 January Contest, Platinum \n Problem 3. Lights Out",
+        "io_file": "lightsout"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Angry Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=597",
+        "whole_title": "USACO 2016 January Contest, Gold \n Problem 1. Angry Cows",
+        "io_file": "angry"
+      },
+      "2": {
+        "title": "Radio Contact",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=598",
+        "whole_title": "USACO 2016 January Contest, Gold \n Problem 2. Radio Contact",
+        "io_file": "radio"
+      },
+      "3": {
+        "title": "Lights Out",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=599",
+        "whole_title": "USACO 2016 January Contest, Gold \n Problem 3. Lights Out",
+        "io_file": "lightsout"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Angry Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=594",
+        "whole_title": "USACO 2016 January Contest, Silver \n Problem 1. Angry Cows",
+        "io_file": "angry"
+      },
+      "2": {
+        "title": "Subsequences Summing to Sevens",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=595",
+        "whole_title": "USACO 2016 January Contest, Silver \n Problem 2. Subsequences Summing to Sevens",
+        "io_file": "div7"
+      },
+      "3": {
+        "title": "Build Gates",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=596",
+        "whole_title": "USACO 2016 January Contest, Silver \n Problem 3. Build Gates",
+        "io_file": "gates"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Promotion Counting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=591",
+        "whole_title": "USACO 2016 January Contest, Bronze \n Problem 1. Promotion Counting",
+        "io_file": "promote"
+      },
+      "2": {
+        "title": "Angry Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=592",
+        "whole_title": "USACO 2016 January Contest, Bronze \n Problem 2. Angry Cows",
+        "io_file": "angry"
+      },
+      "3": {
+        "title": "Mowing the Field",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=593",
+        "whole_title": "USACO 2016 January Contest, Bronze \n Problem 3. Mowing the Field",
+        "io_file": "mowing"
+      }
+    }
+  },
+  "2015open": {
+    "Gold": {
+      "1": {
+        "title": "Googol",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=552",
+        "whole_title": "USACO 2015 US Open, Gold \n Problem 1. Googol",
+        "io_file": "interactive"
+      },
+      "2": {
+        "title": "Palindromic Paths",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=553",
+        "whole_title": "USACO 2015 US Open, Gold \n Problem 2. Palindromic Paths",
+        "io_file": "palpath"
+      },
+      "3": {
+        "title": "Trapped in the Haybales (Gold)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=554",
+        "whole_title": "USACO 2015 US Open, Gold \n Problem 3. Trapped in the Haybales (Gold)",
+        "io_file": "trapped"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Bessie Goes Moo",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=549",
+        "whole_title": "USACO 2015 US Open, Silver \n Problem 1. Bessie Goes Moo",
+        "io_file": "bgm"
+      },
+      "2": {
+        "title": "Trapped in the Haybales (Silver)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=550",
+        "whole_title": "USACO 2015 US Open, Silver \n Problem 2. Trapped in the Haybales (Silver)",
+        "io_file": "trapped"
+      },
+      "3": {
+        "title": "Bessie's Birthday Buffet",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=551",
+        "whole_title": "USACO 2015 US Open, Silver \n Problem 3. Bessie's Birthday Buffet",
+        "io_file": "buffet"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Moocryption",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=545",
+        "whole_title": "USACO 2015 US Open, Bronze \n Problem 1. Moocryption",
+        "io_file": "moocrypt"
+      },
+      "2": {
+        "title": "Bessie Gets Even",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=546",
+        "whole_title": "USACO 2015 US Open, Bronze \n Problem 2. Bessie Gets Even",
+        "io_file": "geteven"
+      },
+      "3": {
+        "title": "Trapped in the Haybales (Bronze)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=547",
+        "whole_title": "USACO 2015 US Open, Bronze \n Problem 3. Trapped in the Haybales (Bronze)",
+        "io_file": "trapped"
+      },
+      "4": {
+        "title": "Palindromic Paths (Bronze)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=548",
+        "whole_title": "USACO 2015 US Open, Bronze \n Problem 4. Palindromic Paths (Bronze)",
+        "io_file": "palpath"
+      }
+    }
+  },
+  "2015dec": {
+    "Platinum": {
+      "1": {
+        "title": "Max Flow",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=576",
+        "whole_title": "USACO 2015 December Contest, Platinum \n Problem 1. Max Flow",
+        "io_file": "maxflow"
+      },
+      "2": {
+        "title": "High Card Low Card (Platinum)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=577",
+        "whole_title": "USACO 2015 December Contest, Platinum \n Problem 2. High Card Low Card (Platinum)",
+        "io_file": "cardgame"
+      },
+      "3": {
+        "title": "Counting Haybales",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=578",
+        "whole_title": "USACO 2015 December Contest, Platinum \n Problem 3. Counting Haybales",
+        "io_file": "haybales"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "High Card Low Card (Gold)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=573",
+        "whole_title": "USACO 2015 December Contest, Gold \n Problem 1. High Card Low Card (Gold)",
+        "io_file": "cardgame"
+      },
+      "2": {
+        "title": "Fruit Feast",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=574",
+        "whole_title": "USACO 2015 December Contest, Gold \n Problem 2. Fruit Feast",
+        "io_file": "feast"
+      },
+      "3": {
+        "title": "Bessie's Dream",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=575",
+        "whole_title": "USACO 2015 December Contest, Gold \n Problem 3. Bessie's Dream",
+        "io_file": "dream"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Switching on the Lights",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=570",
+        "whole_title": "USACO 2015 December Contest, Silver \n Problem 1. Switching on the Lights",
+        "io_file": "lightson"
+      },
+      "2": {
+        "title": "High Card Wins",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=571",
+        "whole_title": "USACO 2015 December Contest, Silver \n Problem 2. High Card Wins",
+        "io_file": "highcard"
+      },
+      "3": {
+        "title": "Breed Counting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=572",
+        "whole_title": "USACO 2015 December Contest, Silver \n Problem 3. Breed Counting",
+        "io_file": "bcount"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Fence Painting",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=567",
+        "whole_title": "USACO 2015 December Contest, Bronze \n Problem 1. Fence Painting",
+        "io_file": "paint"
+      },
+      "2": {
+        "title": "Speeding Ticket",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=568",
+        "whole_title": "USACO 2015 December Contest, Bronze \n Problem 2. Speeding Ticket",
+        "io_file": "speeding"
+      },
+      "3": {
+        "title": "Contaminated Milk",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=569",
+        "whole_title": "USACO 2015 December Contest, Bronze \n Problem 3. Contaminated Milk",
+        "io_file": "badmilk"
+      }
+    }
+  },
+  "2015feb": {
+    "Gold": {
+      "1": {
+        "title": "Cow Hopscotch (Gold)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=532",
+        "whole_title": "USACO 2015 February Contest, Gold \n Problem 1. Cow Hopscotch (Gold)",
+        "io_file": "interactive"
+      },
+      "2": {
+        "title": "Censoring (Gold)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=533",
+        "whole_title": "USACO 2015 February Contest, Gold \n Problem 2. Censoring (Gold)",
+        "io_file": "interactive"
+      },
+      "3": {
+        "title": "Fencing the Herd",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=534",
+        "whole_title": "USACO 2015 February Contest, Gold \n Problem 3. Fencing the Herd",
+        "io_file": "interactive"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Censoring (Silver)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=529",
+        "whole_title": "USACO 2015 February Contest, Silver \n Problem 1. Censoring (Silver)",
+        "io_file": "interactive"
+      },
+      "2": {
+        "title": "Cow Hopscotch (Silver)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=530",
+        "whole_title": "USACO 2015 February Contest, Silver \n Problem 2. Cow Hopscotch (Silver)",
+        "io_file": "interactive"
+      },
+      "3": {
+        "title": "Superbull",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=531",
+        "whole_title": "USACO 2015 February Contest, Silver \n Problem 3. Superbull",
+        "io_file": "interactive"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Censoring (Bronze)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=526",
+        "whole_title": "USACO 2015 February Contest, Bronze \n Problem 1. Censoring (Bronze)",
+        "io_file": "interactive"
+      },
+      "2": {
+        "title": "COW",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=527",
+        "whole_title": "USACO 2015 February Contest, Bronze \n Problem 2. COW",
+        "io_file": "interactive"
+      },
+      "3": {
+        "title": "Cow Hopscotch (Bronze)",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=528",
+        "whole_title": "USACO 2015 February Contest, Bronze \n Problem 3. Cow Hopscotch (Bronze)",
+        "io_file": "interactive"
+      }
+    }
+  },
+  "2015jan": {
+    "Gold": {
+      "1": {
+        "title": "Cow Rectangles",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=514",
+        "whole_title": "USACO 2015 January Contest, Gold \n Problem 1. Cow Rectangles",
+        "io_file": "cowrect"
+      },
+      "2": {
+        "title": "Moovie Mooving",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=515",
+        "whole_title": "USACO 2015 January Contest, Gold \n Problem 2. Moovie Mooving",
+        "io_file": "movie"
+      },
+      "3": {
+        "title": "Grass Cownoisseur",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=516",
+        "whole_title": "USACO 2015 January Contest, Gold \n Problem 3. Grass Cownoisseur",
+        "io_file": "grass"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Stampede",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=511",
+        "whole_title": "USACO 2015 January Contest, Silver \n Problem 1. Stampede",
+        "io_file": "stampede"
+      },
+      "2": {
+        "title": "Cow Routing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=512",
+        "whole_title": "USACO 2015 January Contest, Silver \n Problem 2. Cow Routing",
+        "io_file": "cowroute"
+      },
+      "3": {
+        "title": "Meeting Time",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=513",
+        "whole_title": "USACO 2015 January Contest, Silver \n Problem 3. Meeting Time",
+        "io_file": "meeting"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Cow Routing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=507",
+        "whole_title": "USACO 2015 January Contest, Bronze \n Problem 1. Cow Routing",
+        "io_file": "cowroute"
+      },
+      "2": {
+        "title": "Cow Routing II",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=508",
+        "whole_title": "USACO 2015 January Contest, Bronze \n Problem 2. Cow Routing II",
+        "io_file": "cowroute"
+      },
+      "3": {
+        "title": "It's All About the Base",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=509",
+        "whole_title": "USACO 2015 January Contest, Bronze \n Problem 3. It's All About the Base",
+        "io_file": "whatbase"
+      },
+      "4": {
+        "title": "Meeting Time",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=510",
+        "whole_title": "USACO 2015 January Contest, Bronze \n Problem 4. Meeting Time",
+        "io_file": "meeting"
+      }
+    }
+  }
+}

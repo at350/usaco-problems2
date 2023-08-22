@@ -1,0 +1,44 @@
+name: generate_markdown
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.11.4'
+
+    - uses: pdm-project/setup-pdm@v3
+      name: Setup PDM
+      with:
+        python-version: 3.11.4
+        architecture: x64
+        enable-pep582: true
+        cache: true
+        cache-dependency-path: |
+          ./_scraper/pdm.lock
+
+    - name: Install dependencies
+      run: cd _scraper && pdm install
+
+    - name: run USACO markdown generator
+      run: cd _scraper && pdm run src/USACO_markdown_generator.py
+
+    - name: Commit and push
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-action-noreply@freezind.space'
+        git diff
+        git diff-index --quiet HEAD || git commit -am "Update USACO markdown"
+        git push

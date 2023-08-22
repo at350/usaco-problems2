@@ -1,0 +1,19 @@
+[project]
+name = "algorithm-problems"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Freezind", email = "freezind@gmail.com"},
+]
+dependencies = [
+    "requests>=2.30.0",
+    "beautifulsoup4>=4.12.2",
+    "python-slugify>=8.0.1",
+]
+requires-python = ">=3.11.4"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
