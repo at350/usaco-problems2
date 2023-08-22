@@ -1,6 +1,6 @@
 # USACO
 #### Bronze Solved 0/104 0.00%
-#### Silver Solved 0/102 0.00%
+#### Silver Solved 1/102 0.98%
 #### Gold Solved 0/101 0.00%
 #### Platinum Solved 0/93 0.00%
 # 2023feb
@@ -13,7 +13,7 @@
 | Gold 1 | Equal Sum Subarrays | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1305) | [2023feb/Gold/1.py](2023feb/Gold/1.py) | unsolved |
 | Gold 2 | Fertilizing Pastures | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1306) | [2023feb/Gold/2.py](2023feb/Gold/2.py) | unsolved |
 | Gold 3 | Piling Papers | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1307) | [2023feb/Gold/3.py](2023feb/Gold/3.py) | unsolved |
-| Silver 1 | Bakery | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1302) | [2023feb/Silver/1.py](2023feb/Silver/1.py) | unsolved |
+| Silver 1 | Bakery | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1302) | [2023feb/Silver/Bakery.java](2023feb/Silver/Bakery.java) | AC |
 | Silver 2 | Cow-libi | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1303) | [2023feb/Silver/2.py](2023feb/Silver/2.py) | unsolved |
 | Silver 3 | Moo Route II | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1304) | [2023feb/Silver/3.py](2023feb/Silver/3.py) | unsolved |
 | Bronze 1 | Hungry Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1299) | [2023feb/Bronze/1.py](2023feb/Bronze/1.py) | unsolved |
