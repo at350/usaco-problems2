@@ -1,4 +1,86 @@
 {
+  "2023open": {
+    "Platinum": {
+      "1": {
+        "title": "Pareidolia",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1332",
+        "whole_title": "USACO 2023 US Open Contest, Platinum \n Problem 1. Pareidolia",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Good Bitstrings",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1333",
+        "whole_title": "USACO 2023 US Open Contest, Platinum \n Problem 2. Good Bitstrings",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Triples of Cows",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1334",
+        "whole_title": "USACO 2023 US Open Contest, Platinum \n Problem 3. Triples of Cows",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Custodial Cleanup",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1329",
+        "whole_title": "USACO 2023 US Open Contest, Gold \n Problem 1. Custodial Cleanup",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Pareidolia",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1330",
+        "whole_title": "USACO 2023 US Open Contest, Gold \n Problem 2. Pareidolia",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Tree Merging",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1331",
+        "whole_title": "USACO 2023 US Open Contest, Gold \n Problem 3. Tree Merging",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Milk Sum",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1326",
+        "whole_title": "USACO 2023 US Open Contest, Silver \n Problem 1. Milk Sum",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Field Day",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1327",
+        "whole_title": "USACO 2023 US Open Contest, Silver \n Problem 2. Field Day",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Pareidolia",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1328",
+        "whole_title": "USACO 2023 US Open Contest, Silver \n Problem 3. Pareidolia",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "FEB",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1323",
+        "whole_title": "USACO 2023 US Open Contest, Bronze \n Problem 1. FEB",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Moo Language",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1324",
+        "whole_title": "USACO 2023 US Open Contest, Bronze \n Problem 2. Moo Language",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Rotate and Shift",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1325",
+        "whole_title": "USACO 2023 US Open Contest, Bronze \n Problem 3. Rotate and Shift",
+        "io_file": "stdio"
+      }
+    }
+  },
   "2023feb": {
     "Platinum": {
       "1": {
